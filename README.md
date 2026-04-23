@@ -1,8 +1,4 @@
-I checked your project context and similar real-world video conferencing systems (like those built using WebRTC, Node.js, and real-time communication patterns) to craft a **FAANG-level README** that actually stands out. ([LinkedIn][1])
 
-Below is a **premium, recruiter-impressing README.md** — structured, detailed, and impactful.
-
----
 
 # 🎥 Building a Video Conferencing Platform
 
@@ -10,16 +6,12 @@ Below is a **premium, recruiter-impressing README.md** — structured, detailed,
 
 > A full-stack **video conferencing web application** that enables real-time video/audio communication, built using modern web technologies and scalable architecture principles.
 
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Project-Type%20Full%20Stack-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Real--Time%20Systems-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made%20With-JavaScript-yellow?style=for-the-badge" />
 </p>
-
----
 
 ## 📌 Table of Contents
 
@@ -31,23 +23,19 @@ Below is a **premium, recruiter-impressing README.md** — structured, detailed,
 * [📂 Project Structure](#-project-structure)
 * [⚙️ Installation](#️-installation)
 * [🚀 Usage](#-usage)
-* [📸 Screenshots](#-screenshots)
 * [⚡ Challenges & Learnings](#-challenges--learnings)
 * [📈 Future Improvements](#-future-improvements)
 * [🛡️ Security Considerations](#️-security-considerations)
 * [🤝 Contributing](#-contributing)
 * [👨‍💻 Author](#-author)
 
----
 
 ## 🌍 Introduction
 
 This project is a **Zoom-inspired video conferencing platform** designed to simulate real-world communication systems.
 It focuses on implementing **real-time peer-to-peer communication**, efficient data exchange, and seamless user experience.
 
-Modern applications like Zoom rely heavily on **low-latency streaming and signaling mechanisms**, which this project aims to replicate at a foundational level. ([LinkedIn][1])
-
----
+Modern applications like Zoom rely heavily on **low-latency streaming and signaling mechanisms**, which this project aims to replicate at a foundational level. 
 
 ## 🎯 Objective
 
@@ -55,8 +43,6 @@ Modern applications like Zoom rely heavily on **low-latency streaming and signal
 * Understand **WebRTC & signaling mechanisms**
 * Design scalable and responsive UI
 * Simulate production-level video conferencing features
-
----
 
 ## ✨ Features
 
@@ -86,7 +72,6 @@ Signaling Server (Node.js / Socket)
 WebRTC Peer-to-Peer Connection
    ↓
 Audio/Video Stream Exchange
-```
 
 ### 🔍 Key Concepts Used:
 
@@ -94,9 +79,7 @@ Audio/Video Stream Exchange
 * **Signaling Server** → Connection setup
 * **Peer-to-Peer Architecture** → Low latency communication
 
-These components are essential for building scalable conferencing systems. ([LinkedIn][1])
-
----
+These components are essential for building scalable conferencing systems.
 
 ## 🛠️ Tech Stack
 
@@ -107,7 +90,6 @@ These components are essential for building scalable conferencing systems. ([Lin
 | 🔗 Real-Time | WebRTC, Socket.IO            |
 | 🌐 Protocols | STUN/TURN (for connectivity) |
 
----
 
 ## 📂 Project Structure
 
@@ -120,9 +102,6 @@ Video-Conferencing-Platform/
 ├── controllers/       # Business logic
 ├── utils/             # Helper functions
 └── README.md
-```
-
----
 
 ## ⚙️ Installation
 
@@ -138,9 +117,6 @@ npm install
 
 # Run the server
 npm start
-```
-
----
 
 ## 🚀 Usage
 
@@ -149,27 +125,12 @@ npm start
 3. Share the meeting link
 4. Start real-time video communication
 
----
-
-## 📸 Screenshots
-
-> Add your UI screenshots here (very important for FAANG-level profile)
-
-```id="screens"
- /screenshots/home.png
- /screenshots/video-call.png
-```
-
----
-
 ## ⚡ Challenges & Learnings
 
 * Understanding **WebRTC peer connections**
 * Handling **real-time synchronization**
 * Managing **network latency & connection issues**
 * Designing scalable communication flow
-
----
 
 ## 📈 Future Improvements
 
@@ -179,15 +140,12 @@ npm start
 * 👤 Authentication system
 * 📱 Mobile responsiveness
 
----
-
 ## 🛡️ Security Considerations
 
 * 🔐 Secure signaling channels
 * 🔒 Data privacy in communication
 * 🧑‍💻 Controlled room access
 
----
 
 ## 🤝 Contributing
 
@@ -198,18 +156,15 @@ git fork
 git checkout -b feature-name
 git commit -m "Added feature"
 git push origin feature-name
-```
 
----
 
 ## 👨‍💻 Author
 
 **Patel Umangi**
 🎓 Computer Engineering Student
 
-🔗 GitHub: [https://github.com/Umangi-webdev](https://github.com/Umangi-webdev)
+🔗 GitHub: 
 
----
 
 ## ⭐ Support
 
@@ -218,13 +173,11 @@ If you like this project:
 ⭐ Star this repository
 📢 Share with others
 
----
 
 ## 💬 Final Note
 
 > “Building real-time systems is not just development — it’s engineering communication at scale.”
 
----
 
 # 🔥 Honest FAANG Advice (Important)
 
@@ -239,5 +192,3 @@ If you want next level 🚀
 I can:
 * Suggest **features to make this project FAANG-level strong**w
   Made with love by Umangi Patel
-
-[1]: https://www.linkedin.com/posts/gyaansetu-webdev_%3F%3F%3F%3F-%3F%3F-%3F-%3F%3F%3F%3F%3F%3F%3F%3F-you-want-activity-7431752406004137984-2F9d?utm_source=chatgpt.com "Build Real-Time Video Conferencing App with WebRTC Node.js | GyaanSetu WebDev posted on the topic | LinkedIn"
