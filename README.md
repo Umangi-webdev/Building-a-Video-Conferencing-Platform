@@ -60,8 +60,6 @@ Modern applications like Zoom rely heavily on **low-latency streaming and signal
 * 🧑‍💻 Clean and responsive UI
 * ⚙️ Dynamic room management
 
----
-
 ## 🧠 System Design
 
 ```id="sys-arch"
@@ -123,6 +121,10 @@ npm start
 2. Create or join a meeting room
 3. Share the meeting link
 4. Start real-time video communication
+
+## System- Design
+
+https://github.com/Umangi-webdev/Building-a-Video-Conferencing-Platform/tree/main/assests
 
 ## ⚡ Challenges & Learnings
 
