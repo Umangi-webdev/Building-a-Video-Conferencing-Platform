@@ -119,7 +119,6 @@ npm install
 npm start
 
 ## 🚀 Usage
-
 1. Open the application in browser
 2. Create or join a meeting room
 3. Share the meeting link
