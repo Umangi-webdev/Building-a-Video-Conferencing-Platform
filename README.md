@@ -164,7 +164,7 @@ git push origin feature-name
 **Patel Umangi**
 🎓 Computer Engineering Student
 
-🔗 GitHub: 
+🔗 GitHub: https://github.com/Umangi-webdev
 
 
 ## ⭐ Support
