@@ -73,9 +73,9 @@ Audio/Video Stream Exchange
 
 ### 🔍 Key Concepts Used:
 
-* **WebRTC** → Real-time media streaming
-* **Signaling Server** → Connection setup
-* **Peer-to-Peer Architecture** → Low latency communication
+* *WebRTC* → Real-time media streaming
+* *Signaling Server* → Connection setup
+* *Peer-to-Peer Architecture* → Low latency communication
 
 These components are essential for building scalable conferencing systems.
 
